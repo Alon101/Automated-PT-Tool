@@ -7,7 +7,7 @@ the Magen Cyber program, project ZX301.
 
 ## What it does
 
-You give it a target, an output folder name, and a scan mode. It handles the rest:
+You give it a target, an output folder name, and a scan mode.
 
 - **Basic** — TCP and UDP scan with service versions, then weak-password testing
   on any login services it finds.
